@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Vijaya, I recently learnt how to add a read me file for your profile.
+I'm Vijaya. I am an engineer at [QuillBot](https://quillbot.com/). 
 <br>
  - 📫 How to reach me: [vijaya2798@gmail.com](mailto:vijaya2798@gmail.com)
   
