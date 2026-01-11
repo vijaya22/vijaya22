@@ -21,6 +21,8 @@ I'm Vijaya. I am an engineer at [Wayfair](https://www.wayfair.com/).
   
  - 🔗 LinkedIn: [https://www.linkedin.com/in/vijayalaxmi166/](https://www.linkedin.com/in/vijayalaxmi166/)
 
+ - support me [here](https://buymeacoffee.com/vijaya.laxmi)
+
  
 <!--  
 ### Interests :
